@@ -31,6 +31,3 @@ def __get_var(var_name, filePath):
                 else:
                     return value
         return None
-
-
-print(get_env('boolean', 'C:\\Users\\jonat\\OneDrive\\Documents\\Programming\\Node.js\\Course'))
