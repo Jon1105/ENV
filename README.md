@@ -13,3 +13,7 @@ If it is not provided, the script will search the current directory for and `.in
 
 `get_env('Invalid variable name')` will return `None`
 
+** File format of `.env` file from example above:
+```
+PASSWORD=my_super_secret_password
+```
